@@ -1,0 +1,4 @@
+T90,132,321,456,1985,Armenia,Europe,true,true,5,Narek,Karen,Aram,9,
+T10,159,951,753,1000,Japon,asia,false,true,1,jkl,ljk,ilk,3,
+ASD,132,654,159,1384,fgh,hgf,true,false,8,mnb,uiop,tyu,456,
+OL,321,123,654,1564,PIO,IOP,false,false,8,GH,TYu,KH,56,

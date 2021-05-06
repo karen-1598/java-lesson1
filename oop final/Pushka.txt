@@ -1,0 +1,2 @@
+D20,123,321,159,1985,Armenia,Europe,true,789,987,Narek,Sahak,Karen,753,
+A20,654,321123,10,1971,Rusian,Asia,true,30,465,Styop,Gev,Artur,213,
